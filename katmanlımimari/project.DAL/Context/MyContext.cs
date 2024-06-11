@@ -11,7 +11,7 @@ namespace project.DAL.Context
 {
   public class MyContext : DbContext
   {
-    //optionsBuilder.UseSqlServer("Server=CAGRITUMER; Database=HotelDb;uid=sa;pwd=123456789;TrustServerCertificate=true");
+    //optionsBuilder.UseSqlServer("Server=CAGRI; Database=HotelDb;uid=sa;pwd=123456789;TrustServerCertificate=true");
 
     public MyContext(): base("DefaultConnection")
     {
