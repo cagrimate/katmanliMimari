@@ -4592,11 +4592,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cagritumer\\source\\repos\\katmanlımimari\\project.entities\\project.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\cagritumer\\Documents\\GitHub\\katmanliMimari\\katmanlımimari\\project.entities\\project.Entities.csproj",
       "projectName": "project.Entities",
-      "projectPath": "C:\\Users\\cagritumer\\source\\repos\\katmanlımimari\\project.entities\\project.Entities.csproj",
+      "projectPath": "C:\\Users\\cagritumer\\Documents\\GitHub\\katmanliMimari\\katmanlımimari\\project.entities\\project.Entities.csproj",
       "packagesPath": "C:\\Users\\cagritumer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cagritumer\\source\\repos\\katmanlımimari\\project.entities\\obj\\",
+      "outputPath": "C:\\Users\\cagritumer\\Documents\\GitHub\\katmanliMimari\\katmanlımimari\\project.entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cagritumer\\AppData\\Roaming\\NuGet\\NuGet.Config",

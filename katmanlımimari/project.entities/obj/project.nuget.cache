@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c9309K6LwJ99l0rPCq8WLDAyDMKheMEg/WaAuwgZmAnzs84ThwLCtSPbwvskFY0LRd3LicU+SifHXFbaF/msKw==",
+  "dgSpecHash": "btn0eESqO9qgGbKWO/blRW0orqEP0ZaojUdF2EifCPHtV1J7EcDBcAsnr3EDFxsOG//b08exarpSDU9Plk3Oqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cagritumer\\source\\repos\\katmanlımimari\\project.entities\\project.Entities.csproj",
+  "projectFilePath": "C:\\Users\\cagritumer\\Documents\\GitHub\\katmanliMimari\\katmanlımimari\\project.entities\\project.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cagritumer\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\cagritumer\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

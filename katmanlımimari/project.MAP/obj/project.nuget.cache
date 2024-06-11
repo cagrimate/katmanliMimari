@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Llu67yVA+72Tq1W5VIdMBtHaZzZnYgS8Icr1DnLGLTGcgHEBp+XDyshJhH+rYggg6/PfpCSYV1SJTMkbL8JcPw==",
+  "dgSpecHash": "7hRu2BjDMvXbBS+EGEJ+lhRgifI+VNPX47jJ09FaNRw5v1WXYXEeK5RvYjkKBUeu8wPtSAS2xgfB/5tczvmWyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cagritumer\\source\\repos\\katmanlımimari\\project.MAP\\project.MAP.csproj",
+  "projectFilePath": "C:\\Users\\cagritumer\\Documents\\GitHub\\katmanliMimari\\katmanlımimari\\project.MAP\\project.MAP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cagritumer\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\cagritumer\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

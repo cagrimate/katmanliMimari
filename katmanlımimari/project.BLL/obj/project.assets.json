@@ -4657,11 +4657,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cagritumer\\source\\repos\\katmanlımimari\\project.BLL\\project.BLL.csproj",
+      "projectUniqueName": "C:\\Users\\cagritumer\\Documents\\GitHub\\katmanliMimari\\katmanlımimari\\project.BLL\\project.BLL.csproj",
       "projectName": "project.BLL",
-      "projectPath": "C:\\Users\\cagritumer\\source\\repos\\katmanlımimari\\project.BLL\\project.BLL.csproj",
+      "projectPath": "C:\\Users\\cagritumer\\Documents\\GitHub\\katmanliMimari\\katmanlımimari\\project.BLL\\project.BLL.csproj",
       "packagesPath": "C:\\Users\\cagritumer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cagritumer\\source\\repos\\katmanlımimari\\project.BLL\\obj\\",
+      "outputPath": "C:\\Users\\cagritumer\\Documents\\GitHub\\katmanliMimari\\katmanlımimari\\project.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cagritumer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4678,11 +4678,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\cagritumer\\source\\repos\\katmanlımimari\\project.DAL\\project.DAL.csproj": {
-              "projectPath": "C:\\Users\\cagritumer\\source\\repos\\katmanlımimari\\project.DAL\\project.DAL.csproj"
+            "C:\\Users\\cagritumer\\Documents\\GitHub\\katmanliMimari\\katmanlımimari\\project.DAL\\project.DAL.csproj": {
+              "projectPath": "C:\\Users\\cagritumer\\Documents\\GitHub\\katmanliMimari\\katmanlımimari\\project.DAL\\project.DAL.csproj"
             },
-            "C:\\Users\\cagritumer\\source\\repos\\katmanlımimari\\project.entities\\project.Entities.csproj": {
-              "projectPath": "C:\\Users\\cagritumer\\source\\repos\\katmanlımimari\\project.entities\\project.Entities.csproj"
+            "C:\\Users\\cagritumer\\Documents\\GitHub\\katmanliMimari\\katmanlımimari\\project.entities\\project.Entities.csproj": {
+              "projectPath": "C:\\Users\\cagritumer\\Documents\\GitHub\\katmanliMimari\\katmanlımimari\\project.entities\\project.Entities.csproj"
             }
           }
         }

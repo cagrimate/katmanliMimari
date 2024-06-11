@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G0BeVYft8tAP4Hsus7Ogk7500fkxaqyPGqmv7JyY5AzihPZWtB7WkFKKd5cRAMVsAfFWleuEnnwScHcxvg87nQ==",
+  "dgSpecHash": "pZ6gMpwMpnjlEzXnNqaaSaMufxCVqxvOPxIbSF+61SG30vd5xpoX7Y6j+G8Tsul5pFNzKY9csFw5Qtdgsj5HCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cagritumer\\source\\repos\\katmanlımimari\\project.DAL\\project.DAL.csproj",
+  "projectFilePath": "C:\\Users\\cagritumer\\Documents\\GitHub\\katmanliMimari\\katmanlımimari\\project.DAL\\project.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cagritumer\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\cagritumer\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

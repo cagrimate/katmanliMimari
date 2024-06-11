@@ -4613,11 +4613,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cagritumer\\source\\repos\\katmanlımimari\\project.MAP\\project.MAP.csproj",
+      "projectUniqueName": "C:\\Users\\cagritumer\\Documents\\GitHub\\katmanliMimari\\katmanlımimari\\project.MAP\\project.MAP.csproj",
       "projectName": "project.MAP",
-      "projectPath": "C:\\Users\\cagritumer\\source\\repos\\katmanlımimari\\project.MAP\\project.MAP.csproj",
+      "projectPath": "C:\\Users\\cagritumer\\Documents\\GitHub\\katmanliMimari\\katmanlımimari\\project.MAP\\project.MAP.csproj",
       "packagesPath": "C:\\Users\\cagritumer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cagritumer\\source\\repos\\katmanlımimari\\project.MAP\\obj\\",
+      "outputPath": "C:\\Users\\cagritumer\\Documents\\GitHub\\katmanliMimari\\katmanlımimari\\project.MAP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cagritumer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4634,8 +4634,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\cagritumer\\source\\repos\\katmanlımimari\\project.entities\\project.Entities.csproj": {
-              "projectPath": "C:\\Users\\cagritumer\\source\\repos\\katmanlımimari\\project.entities\\project.Entities.csproj"
+            "C:\\Users\\cagritumer\\Documents\\GitHub\\katmanliMimari\\katmanlımimari\\project.entities\\project.Entities.csproj": {
+              "projectPath": "C:\\Users\\cagritumer\\Documents\\GitHub\\katmanliMimari\\katmanlımimari\\project.entities\\project.Entities.csproj"
             }
           }
         }

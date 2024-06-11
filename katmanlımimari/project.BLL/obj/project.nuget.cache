@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DG2WPMsg7DS/4/PbdpYJed63Sb2zXEC9wvIezPPKbuLYqD4DEGWpbdCBNs4iVJ2HY4/7wuvrAStSkf3ATI+Ewg==",
+  "dgSpecHash": "VEVHE+oVoEkf/jMiuJOjFJ294AtUh6D4TERWIS7tazVrPSeRQyG2H50DrBjwch5q/00nmItxCpigfvJ98cYFgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cagritumer\\source\\repos\\katmanlımimari\\project.BLL\\project.BLL.csproj",
+  "projectFilePath": "C:\\Users\\cagritumer\\Documents\\GitHub\\katmanliMimari\\katmanlımimari\\project.BLL\\project.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cagritumer\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\cagritumer\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
