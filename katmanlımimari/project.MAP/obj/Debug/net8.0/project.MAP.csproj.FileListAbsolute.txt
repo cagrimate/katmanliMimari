@@ -1,0 +1,17 @@
+C:\Users\cagritumer\source\repos\katmanlımimari\project.MAP\bin\Debug\net8.0\project.MAP.deps.json
+C:\Users\cagritumer\source\repos\katmanlımimari\project.MAP\bin\Debug\net8.0\project.MAP.runtimeconfig.json
+C:\Users\cagritumer\source\repos\katmanlımimari\project.MAP\bin\Debug\net8.0\project.MAP.dll
+C:\Users\cagritumer\source\repos\katmanlımimari\project.MAP\bin\Debug\net8.0\project.MAP.pdb
+C:\Users\cagritumer\source\repos\katmanlımimari\project.MAP\bin\Debug\net8.0\project.Entities.dll
+C:\Users\cagritumer\source\repos\katmanlımimari\project.MAP\bin\Debug\net8.0\project.Entities.pdb
+C:\Users\cagritumer\source\repos\katmanlımimari\project.MAP\obj\Debug\net8.0\project.MAP.csproj.AssemblyReference.cache
+C:\Users\cagritumer\source\repos\katmanlımimari\project.MAP\obj\Debug\net8.0\project.MAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagritumer\source\repos\katmanlımimari\project.MAP\obj\Debug\net8.0\project.MAP.AssemblyInfoInputs.cache
+C:\Users\cagritumer\source\repos\katmanlımimari\project.MAP\obj\Debug\net8.0\project.MAP.AssemblyInfo.cs
+C:\Users\cagritumer\source\repos\katmanlımimari\project.MAP\obj\Debug\net8.0\project.MAP.csproj.CoreCompileInputs.cache
+C:\Users\cagritumer\source\repos\katmanlımimari\project.MAP\obj\Debug\net8.0\project.MAP.csproj.CopyComplete
+C:\Users\cagritumer\source\repos\katmanlımimari\project.MAP\obj\Debug\net8.0\project.MAP.dll
+C:\Users\cagritumer\source\repos\katmanlımimari\project.MAP\obj\Debug\net8.0\refint\project.MAP.dll
+C:\Users\cagritumer\source\repos\katmanlımimari\project.MAP\obj\Debug\net8.0\project.MAP.pdb
+C:\Users\cagritumer\source\repos\katmanlımimari\project.MAP\obj\Debug\net8.0\project.MAP.genruntimeconfig.cache
+C:\Users\cagritumer\source\repos\katmanlımimari\project.MAP\obj\Debug\net8.0\ref\project.MAP.dll

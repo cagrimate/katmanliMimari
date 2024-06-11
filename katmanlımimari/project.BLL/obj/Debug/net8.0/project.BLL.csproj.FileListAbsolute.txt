@@ -1,0 +1,14 @@
+C:\Users\cagritumer\source\repos\katmanlımimari\project.BLL\bin\Debug\net8.0\project.BLL.deps.json
+C:\Users\cagritumer\source\repos\katmanlımimari\project.BLL\bin\Debug\net8.0\project.BLL.runtimeconfig.json
+C:\Users\cagritumer\source\repos\katmanlımimari\project.BLL\bin\Debug\net8.0\project.BLL.dll
+C:\Users\cagritumer\source\repos\katmanlımimari\project.BLL\bin\Debug\net8.0\project.BLL.pdb
+C:\Users\cagritumer\source\repos\katmanlımimari\project.BLL\obj\Debug\net8.0\project.BLL.csproj.AssemblyReference.cache
+C:\Users\cagritumer\source\repos\katmanlımimari\project.BLL\obj\Debug\net8.0\project.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagritumer\source\repos\katmanlımimari\project.BLL\obj\Debug\net8.0\project.BLL.AssemblyInfoInputs.cache
+C:\Users\cagritumer\source\repos\katmanlımimari\project.BLL\obj\Debug\net8.0\project.BLL.AssemblyInfo.cs
+C:\Users\cagritumer\source\repos\katmanlımimari\project.BLL\obj\Debug\net8.0\project.BLL.csproj.CoreCompileInputs.cache
+C:\Users\cagritumer\source\repos\katmanlımimari\project.BLL\obj\Debug\net8.0\project.BLL.dll
+C:\Users\cagritumer\source\repos\katmanlımimari\project.BLL\obj\Debug\net8.0\refint\project.BLL.dll
+C:\Users\cagritumer\source\repos\katmanlımimari\project.BLL\obj\Debug\net8.0\project.BLL.pdb
+C:\Users\cagritumer\source\repos\katmanlımimari\project.BLL\obj\Debug\net8.0\project.BLL.genruntimeconfig.cache
+C:\Users\cagritumer\source\repos\katmanlımimari\project.BLL\obj\Debug\net8.0\ref\project.BLL.dll
